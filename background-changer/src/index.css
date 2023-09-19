@@ -5,7 +5,6 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
-
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -18,7 +17,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+border-color: #646cff;
 }
 button:focus,
 button:focus-visible {
